@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou o @SrRenda! mas pode me chamar de Matheus, tenho 22 anos. Estou cursando Ciências da Computação, tenho inglês intermediário/avançado. Atualmente trabalho como Analista de Dados Junior na IK Solution. Tenho bons conhecimentos em pacote office, com Excel avançado. Além disso conheço a ferramenta do Power Bi a ponto de aplicar técnicas de ETL em linguagem M para tratar os dados, realizar cálculos dinâmicos com as fórmulas DAX, criar dashboards esteticamente bonitos, dinâmicos e iterativos. Além disso possuo conhecimento em Python como para extrair dados de APIs e integrar com o Power BI.![image]
+Olá, sou o @SrRenda! mas pode me chamar de Matheus, tenho 22 anos. Estou cursando Ciências da Computação, tenho inglês intermediário/avançado. Atualmente trabalho como Analista de Dados Junior na IK Solution. Tenho bons conhecimentos em pacote office, com Excel avançado. Além disso conheço a ferramenta do Power Bi a ponto de aplicar técnicas de ETL em linguagem M para tratar os dados, realizar cálculos dinâmicos com as fórmulas DAX, criar dashboards esteticamente bonitos, dinâmicos e iterativos. Além disso possuo conhecimento em Python como para extrair dados de APIs e integrar com o Power BI.
 
 
 
